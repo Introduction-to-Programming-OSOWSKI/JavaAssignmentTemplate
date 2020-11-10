@@ -10,7 +10,7 @@ import org.junit.jupiter.params.provider.CsvSource;
 import java.io.*;
 
 public class TestHello {
-
+/*
    @Test
    public void testHelloWorld()
    {
@@ -26,5 +26,12 @@ public class TestHello {
 
      // undo the binding in System
      System.setOut(originalOut);
+   }
+   */
+
+   @Test
+   public void testAdd(){
+       App.main(null);
+       assertEquals(2, App.add(1, 1), "INCORRECT: 1 + 1 = 2");
    }
 }
