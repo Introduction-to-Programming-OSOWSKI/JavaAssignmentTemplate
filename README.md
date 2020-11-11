@@ -18,7 +18,7 @@ In order to complete this assignment, you will need to write your code in the Ap
 
 This assignment will automatically be tested and graded upon completion. If your src folder has a red X on it, it means that your code does not work.  
 
-Once you submit your work, you can see if your code passed or failed by going to the "Issues" page of your github repository for this assignment. It make take a few minutes for the test to finish running. A red X means that it failed. A green check means that your assignment successfully passed and you are finished.
+Once you submit your work, you can see if your code passed or failed by going to the "Issues" page of your github repository for this assignment. It may take a few minutes for the test to finish running. A red X means that it failed. A green check means that your assignment successfully passed and you are finished.
 
 To submit your work, run these commands in the terminal: 
 >git add .  
